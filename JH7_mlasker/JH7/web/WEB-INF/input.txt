@@ -1,0 +1,4 @@
+Do you like to cast fire balls?@0@0@0@5@0
+Do you like to Fatal Push?@0@5@0@0@0
+Does combat tickle your fancy?@0@0@0@0@5
+Do you enjoy being as annoying as possible?@0@0@5@0@0
